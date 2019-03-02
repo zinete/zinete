@@ -1,6 +1,6 @@
 # zinete
 
-A new Flutter project.
+学习flutter小部件的使用
 
 ## Getting Started
 
