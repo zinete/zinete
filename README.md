@@ -1,3 +1,5 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zinete&show_icons=true&theme=solarized-light&count_private=true)
+
 # zinete
 
 学习flutter小部件的使用
